@@ -1,9 +1,9 @@
-import { useState, Fragment } from "react";
-import { Listbox, Transition } from "@headlessui/react";
-import { HiOutlineSelector } from "react-icons/hi";
-import { siteSettings } from "@settings/site-settings";
-import { useTranslation } from "next-i18next";
-import { useRouter } from "next/router";
+// import { useState, Fragment } from "react";
+// import { Listbox, Transition } from "@headlessui/react";
+// import { HiOutlineSelector } from "react-icons/hi";
+// import { siteSettings } from "@settings/site-settings";
+// import { useTranslation } from "next-i18next";
+// import { useRouter } from "next/router";
 
 export default function LanguageSwitcher() {
 	// const { site_header } = siteSettings;
